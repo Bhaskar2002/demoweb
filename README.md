@@ -1,2 +1,0 @@
-# demoweb.github.io
-demoproject
